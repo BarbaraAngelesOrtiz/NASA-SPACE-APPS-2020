@@ -19,4 +19,42 @@ The idea is to integrate satellite data mainly from NASA into our application by
 
 [Report link in English](https://github.com/BarbaraAngelesOrtiz/NASA-SPACE-APPS-2020/blob/0941e7d62516dd1bd4a9fa93c0b35782c58adb51/NASA%20Space%20Apps%20%20English.pdf)
 
+## How We Developed This Project
+
+Our planet is constantly exposed to severe climatic and non-climatic events that threaten the health, security, economy and productivity of nations and their inhabitants. For this reason, we decided to tackle this problem, developing a method that gives automatic information for the detection of threats and imparts solutions to natural disasters, providing the people in charge with a solution and immediate resources to take action and save lives.
+
+We can access the Copernicus Open Access Hub software through a web page that we designed. There will be indicated the place to be analyzed and the satellite that contains the data needed. Files with .NC extension are downloaded and we use Matlab to open them, they contain the statistical information of the variables on the natural phenomenon to be analyzed. In turn, to analyze the images in a timelapse, we use EO Browser, which is a powerful tool for viewing satellite images, and the place is analyzed by modifying layers and bands.
+
+For the development of the system, tools such as laptops, web systems such as marvelapp were used, Canva (canva.com) and Google Drive.
+
+The distance was a problem factor but it did not prevent us from working and developing, thanks to the technology and virtual system.
+
+## How We Used Space Agency Data in This Project
+
+We've used the Copernicus Open Access Hub software. There, we draw a polygon on a place in the world to analyze the natural phenomena and the software shows those satellites that contain the data we need and the entire surface to study. Files with extension .NC are downloaded and through Matlab we access the statistical information and images of the variables on the natural phenomenon to be analyzed. In turn, to analyze the images in a timelapse, we use EO Browser, which is a powerful tool to view satellite images. In turn, modifying layers and bands, we can understand the parameters and variables that are in that site
+
+## Project Demo
+
+[LINK TO PROJECT DEMO](https://www.youtube.com/watch?v=ucr03E3XQ14)
+
+[LINK TO FINAL PROJECT](https://www.youtube.com/watch?v=yeC1GxccEcs)
+
+##BIBLIOGRAPHY AND RESOURCES CONSULTED
+
+MISR. You can see [the sunlight reflecting on the waves](https://terra.nasa.gov/about/terra-instruments/misr)
+
+[MISR Website](https://www-misr.jpl.nasa.gov/) (Jet Propulsion Laboratory)
+
+[MODIS website](https://modis.gsfc.nasa.gov/) (Goddard Space Flight Center)
+
+[AMSR SATELLITE SENSOR](https://www.eorc.jaxa.jp/AMSR/viewer/index.html)
+
+[Sentinel Website (Hub)](https://www.sentinel-hub.com/explore/apps-and-utilities/)
+
+[Sentinel Website (Esa)](https://sentinel.esa.int/web/sentinel/user-guides/sentinel-1-sar/applications/maritime-monitoring)
+
+[Copernicus Open Access Hub Website (Esa)](https://scihub.copernicus.eu/)
+
+[MATLAB](https://www.mathworks.com/products/matlab.html)
+
 
