@@ -39,7 +39,7 @@ We've used the Copernicus Open Access Hub software. There, we draw a polygon on 
 
 [LINK TO FINAL PROJECT](https://www.youtube.com/watch?v=yeC1GxccEcs)
 
-##BIBLIOGRAPHY AND RESOURCES CONSULTED
+## BIBLIOGRAPHY AND RESOURCES CONSULTED
 
 MISR. You can see [the sunlight reflecting on the waves](https://terra.nasa.gov/about/terra-instruments/misr)
 
