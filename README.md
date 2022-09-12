@@ -1,9 +1,16 @@
 # NASA-SPACE-APPS-2020
+
 Countless phenomena such as floods, fires, and algae blooms routinely impact ecosystems, economies, and human safety. Your challenge is to use satellite data to create a machine learning model that detects a specific phenomenon and build an interface that not only displays the detected phenomenon, but also layers it alongside ancillary data to help researchers and decision-makers better understand its impacts and scope.
 
 [Brochure](https://github.com/BarbaraAngelesOrtiz/NASA-SPACE-APPS-2020/blob/10b1fe0467469da12003fb800fd63e68e3eea30c/The%20NEED%20Project.pdf)
 
 # NEED (Natural Events Exposure & Detection.) 
+
+## Project Demo
+
+[LINK TO PROJECT DEMO](https://www.youtube.com/watch?v=ucr03E3XQ14)
+
+[LINK TO FINAL PROJECT](https://www.youtube.com/watch?v=yeC1GxccEcs)
 
 ## Summary
 
@@ -38,12 +45,6 @@ The distance was a problem factor but it did not prevent us from working and dev
 We've used the Copernicus Open Access Hub software. There, we draw a polygon on a place in the world to analyze the natural phenomena and the software shows those satellites that contain the data we need and the entire surface to study. Files with extension .NC are downloaded and through Matlab we access the statistical information and images of the variables on the natural phenomenon to be analyzed. In turn, to analyze the images in a timelapse, we use EO Browser, which is a powerful tool to view satellite images. In turn, modifying layers and bands, we can understand the parameters and variables that are in that site
 
 ![Timelapse](https://user-images.githubusercontent.com/105976212/189562347-04618f5c-9afc-456c-9dc6-05f09c336589.gif)
-
-## Project Demo
-
-[LINK TO PROJECT DEMO](https://www.youtube.com/watch?v=ucr03E3XQ14)
-
-[LINK TO FINAL PROJECT](https://www.youtube.com/watch?v=yeC1GxccEcs)
 
 ## BIBLIOGRAPHY AND RESOURCES CONSULTED
 
