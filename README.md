@@ -17,6 +17,6 @@ This model includes the use of a double-entry cross-matrix which will be respons
 
 The idea is to integrate satellite data mainly from NASA into our application by means of an automatic learning method which will process the data and yield statistical results and modelling using dynamic graphics and simulator.
 
-[Report link in English]
+[Report link in English](https://github.com/BarbaraAngelesOrtiz/NASA-SPACE-APPS-2020/blob/0941e7d62516dd1bd4a9fa93c0b35782c58adb51/NASA%20Space%20Apps%20%20English.pdf)
 
 
