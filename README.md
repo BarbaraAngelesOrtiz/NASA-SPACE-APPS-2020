@@ -75,6 +75,5 @@ MISR. You can see [the sunlight reflecting on the waves](https://terra.nasa.gov/
 
 ![Status](https://img.shields.io/badge/status-finished-brightgreen)
 
-![Python](https://img.shields.io/badge/python-3.10-blue)
 
 
