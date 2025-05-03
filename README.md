@@ -64,6 +64,17 @@ MISR. You can see [the sunlight reflecting on the waves](https://terra.nasa.gov/
 
 [Copernicus Open Access Hub Website (Esa)](https://scihub.copernicus.eu/)
 
-[MATLAB](https://www.mathworks.com/products/matlab.html)
+[MATLAB](https://www.mathworks.com/products/matlab.html
+
+  ## Author
+**Bárbara Ángeles Ortiz**
+
+ <img src="https://avatars.githubusercontent.com/u/105976212?v=4" width=115><br><sub></sub>
+
+[LinkedIn](https://www.linkedin.com/in/barbaraangelesortiz/) | [GitHub](https://github.com/BarbaraAngelesOrtiz)
+
+![Status](https://img.shields.io/badge/status-finished-brightgreen)
+
+![Python](https://img.shields.io/badge/python-3.10-blue)
 
 
